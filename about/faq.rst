@@ -349,7 +349,7 @@ This is mostly needed for 2D, as in 3D it's just a matter of Camera XFov or YFov
 
 4. For user interfaces, use the :ref:`anchoring <doc_size_and_anchors>`
    to determine where controls should stay and move. If UIs are more
-   complex, consider learning about Containers.
+   complex, consider learning about :ref:`Containers<class_container>`.
 
 And that's it! Your game should work in multiple resolutions.
 
